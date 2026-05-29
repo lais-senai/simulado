@@ -1,0 +1,15 @@
+ - O sistema deve permitir login de usuários.
+ - O sistema deve validar login e senha.
+- O sistema deve informar erro de autenticação.
+- O sistema deve permitir logout.
+- O sistema deve cadastrar produtos.
+- O sistema deve listar produtos cadastrados.
+- O sistema deve buscar produtos por nome.
+- O sistema deve excluir produtos.
+- O sistema deve registrar entrada de estoque.
+- O sistema deve registrar saída de estoque.
+- O sistema deve atualizar estoque automaticamente.
+- O sistema deve alertar estoque mínimo.
+- O sistema deve registrar histórico de movimentações.
+- O sistema deve mostrar usuário responsável pela movimentação.
+- O sistema deve registrar data da movimentação.
